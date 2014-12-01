@@ -1,0 +1,3 @@
+data nomgmtdata.txt
+prior nomgmtprior.txt
+species=1 siteclass=1
