@@ -1,0 +1,3 @@
+data SEnomgmtdata.txt
+prior SEnewprior.txt
+species=1 siteclass=1

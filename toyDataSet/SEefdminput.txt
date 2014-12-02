@@ -1,0 +1,6 @@
+STATESPACE_FILENAME X:\somepath\SEfactors.txt
+INITSTATE_FILENAME X:\somepath\SEinitstate.txt
+ACTIVITIES_FILENAME X:\somepath\SEactivities.txt
+ACTPROBS_FILENAME X:\somepath\SEactprobs.txt
+NROFSTEPS 5
+OUTPUTREQUEST_FILENAME X:\somepath\SEoutputrequests.txt

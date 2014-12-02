@@ -1,0 +1,3 @@
+nomgmt estimate SEestiminput.txt vol age
+finalfell read SEffellP.txt vol age
+thin read SEthinP.RData vol age
