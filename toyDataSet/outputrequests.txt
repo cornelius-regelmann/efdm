@@ -1,4 +1,0 @@
-volume by species
-M:\efdm\workshopexample\volume.txt
-drain by siteclass
-M:\efdm\workshopexample\drain.txt

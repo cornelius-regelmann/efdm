@@ -1,3 +1,0 @@
-nomgmt nomgmtP.RData vol age
-thin thinP.RData vol age
-finalfell ffellP.txt vol age
