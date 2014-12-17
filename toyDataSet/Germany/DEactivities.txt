@@ -1,0 +1,2 @@
+nomgmt read DEnomgmtP.RData vol age
+finalfell read DEffellP.txt vol age
